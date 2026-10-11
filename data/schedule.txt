@@ -1,0 +1,8 @@
+Surat Metro Schedule:
+
+Morning Peak: 6:00 AM - 11:00 AM (every 7-8 minutes)
+Afternoon: 11:00 AM - 5:00 PM (every 10 minutes)
+Evening Peak: 5:00 PM - 10:00 PM (every 6-7 minutes)
+Last Train: Approximately 10:30 PM - 11:00 PM
+
+Note: Frequency may change on weekends and holidays.

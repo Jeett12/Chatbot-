@@ -1,0 +1,19 @@
+# Core UI Framework
+streamlit>=1.35.0
+
+# LLM - Groq
+langchain-groq>=0.1.0
+
+# RAG Orchestration
+langchain>=0.2.0
+langchain-huggingface>=0.0.1
+langchain-community>=0.2.0
+langchain-core>=0.2.0
+
+# Vector Embeddings & Similarity Search
+sentence-transformers>=2.6.0
+faiss-cpu>=1.8.0
+
+# Environment & Utilities
+python-dotenv>=1.0.0
+markdown-it-py>=3.0.0

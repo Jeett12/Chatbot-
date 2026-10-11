@@ -1,0 +1,32 @@
+Surat Metro Stations:
+
+Red Line Stations:
+- Sarthana
+- Nature Park
+- Varachha Chopati Garden
+- Kapodra
+- Labheshwar Chowk
+- Central Warehouse
+- Surat Railway Station
+- Maskati Hospital
+- Gandhi Baug
+- Majura Gate
+- Althan Tenament
+- Althan Gam
+- VIP Road
+- Bhimrad
+- Convention Center
+- DREAM City
+
+Green Line Stations:
+- Bhesan
+- Botanical Garden
+- Adajan Gam
+- Athwa Chopati
+- Majura Gate
+- Udhna Darwaja
+- Kamela Darwaja
+- Anjana Farm
+- Model Town
+- Magob
+- Saroli

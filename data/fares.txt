@@ -1,0 +1,9 @@
+Surat Metro Fare Chart:
+
+0 - 3 stations = ₹10
+4 - 6 stations = ₹15
+7 - 10 stations = ₹20
+11 - 15 stations = ₹30
+16+ stations = ₹40
+
+Minimum Fare = ₹10
